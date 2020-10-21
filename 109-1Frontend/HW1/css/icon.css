@@ -1,0 +1,118 @@
+.circle {
+    border-radius: 50%;
+    width: 62px;
+    height: 62px;
+    display: inline-block;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #808080;
+}
+
+.rounded-rectangle {
+    width: 62px;
+    height: 62px;
+    border-radius: (1,8);
+    display: inline-block;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #808080;}
+
+.i {
+    background-image: url(../img/icon-list.png);
+}
+
+.i-person{
+    height: 62px;
+    width: 62px;
+    background-size: 400%;
+    background-position:left 2%  top 66%;
+}
+.i-phone{
+    height: 62px;
+    width: 62px;
+    background-size: 400%;
+    background-position:left 34% top 66%;
+}
+.i-message{
+    height: 62px;
+    width: 62px;
+    background-size: 400%;
+    background-position:left 66% top 66%;
+}
+.i-clock{
+    height: 62px;
+    width: 62px;
+    background-size: 400%;
+    background-position:left 97% top 66%;
+}.i-music{
+    height: 62px;
+    width: 62px;
+    background-size: 400%;
+    background-position:left 3%  top 34%;
+}
+.i-photo{
+    height: 62px;
+    width: 62px;
+    background-size: 400%;
+    background-position:left 34% top 34%;
+}
+.i-photocamera{
+    height: 62px;
+    width: 62px;
+    background-size: 400%;
+    background-position:left 66% top 34%;
+}
+.i-videocamera{
+    height: 62px;
+    width: 62px;
+    background-size: 400%;
+    background-position:left 97% top 34%;
+}
+.i-webcam{
+    height: 62px;
+    width: 62px;
+    background-size: 400%;
+    background-position:left 2%  top 66%;
+}
+.i-microphone{
+    height: 62px;
+    width: 62px;
+    background-size: 400%;
+    background-position:left 34% top 66%;
+}
+.i-trashcan{
+    height: 62px;
+    width: 62px;
+    background-size: 400%;
+    background-position:left 66% top 66%;
+}
+.i-find{
+    height: 62px;
+    width: 62px;
+    background-size: 400%;
+    background-position:left 97% top 66%;
+}
+.i-location{
+    height: 62px;
+    width: 62px;
+    background-size: 400%;
+    background-position:left 2%  top 97%;
+}
+.i-setting{
+    height: 62px;
+    width: 62px;
+    background-size: 400%;
+    background-position:left 34% top 97%;
+}
+.i-speaker{
+    height: 62px;
+    width: 62px;
+    background-size: 400%;
+    background-position:left 66% top 97%;
+}
+.i-note{
+    height: 62px;
+    width: 62px;
+    background-size: 400%;
+    background-position:left 97% top 97%;
+}

@@ -1,0 +1,47 @@
+
+.img{
+    border: radius 90px; ;
+    display: block;
+    width: 90px;
+    height: 90px;
+}
+.card{
+    width: 90px;
+    margin:0 auto ;
+}
+.a{
+    position: fixed;
+    top:20%;left:5%;
+}
+.b{
+    position: fixed;
+    top:20%;left:16%;
+}
+.c{
+    position: fixed;
+    top:20%;left:27%;
+}
+.d{
+    position: fixed;
+    top:20%;left:38%;
+}
+.e{
+    position: fixed;
+    top:20%;left:49%;
+}
+.f{
+    position: fixed;
+    top:55%;left:5%;
+}
+.g{
+    position: fixed;
+    top:55%;left:16%;
+}
+.h{
+    position: fixed;
+    top:55%;left:27%;
+}
+.caption {
+    display: block;
+    text-align: center;
+}
